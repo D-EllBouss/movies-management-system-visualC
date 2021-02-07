@@ -1,0 +1,34 @@
+C:\Users\hp\Desktop\P5\Java\D_Movie\D_Movie\bin\Debug\D_Movie.exe
+C:\Users\hp\Desktop\P5\Java\D_Movie\D_Movie\bin\Debug\D_Movie.pdb
+C:\Users\hp\Desktop\P5\Java\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Form1.resources
+C:\Users\hp\Desktop\P5\Java\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Properties.Resources.resources
+C:\Users\hp\Desktop\P5\Java\D_Movie\D_Movie\obj\x86\Debug\D_Movie.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\P5\Java\D_Movie\D_Movie\obj\x86\Debug\D_Movie.exe
+C:\Users\hp\Desktop\P5\Java\D_Movie\D_Movie\obj\x86\Debug\D_Movie.pdb
+C:\Users\hp\Desktop\P5\Java\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Form2.resources
+C:\Users\hp\Desktop\P5\Java\D_Movie\D_Movie\obj\x86\Debug\D_Movie.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\P5\Java\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.exe
+C:\Users\hp\Desktop\P5\Java\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.pdb
+C:\Users\hp\Desktop\P5\Java\178002002BoussaEllenga\D_Movie\D_Movie\bin\Debug\D_Movie.exe
+C:\Users\hp\Desktop\P5\Java\178002002BoussaEllenga\D_Movie\D_Movie\bin\Debug\D_Movie.pdb
+C:\Users\hp\Desktop\P5\Java\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\P5\Java\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Form1.resources
+C:\Users\hp\Desktop\P5\Java\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Form2.resources
+C:\Users\hp\Desktop\P5\Java\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Properties.Resources.resources
+C:\Users\hp\Desktop\P5\Java\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\P5\Practice 2\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.exe
+C:\Users\hp\Desktop\P5\Practice 2\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.pdb
+C:\Users\hp\Desktop\P5\Practice 2\178002002BoussaEllenga\D_Movie\D_Movie\bin\Debug\D_Movie.exe
+C:\Users\hp\Desktop\P5\Practice 2\178002002BoussaEllenga\D_Movie\D_Movie\bin\Debug\D_Movie.pdb
+C:\Users\hp\Desktop\P5\Practice 2\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Form1.resources
+C:\Users\hp\Desktop\P5\Practice 2\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Form2.resources
+C:\Users\hp\Desktop\P5\Practice 2\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Properties.Resources.resources
+C:\Users\hp\Desktop\P5\Practice 2\178002002BoussaEllenga\D_Movie\D_Movie\obj\x86\Debug\D_Movie.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\GitHub\DMovies\D_Movie\D_Movie\obj\x86\Debug\D_Movie.exe
+C:\Users\hp\Desktop\GitHub\DMovies\D_Movie\D_Movie\obj\x86\Debug\D_Movie.pdb
+C:\Users\hp\Desktop\GitHub\DMovies\D_Movie\D_Movie\bin\Debug\D_Movie.exe
+C:\Users\hp\Desktop\GitHub\DMovies\D_Movie\D_Movie\bin\Debug\D_Movie.pdb
+C:\Users\hp\Desktop\GitHub\DMovies\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Form1.resources
+C:\Users\hp\Desktop\GitHub\DMovies\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Form2.resources
+C:\Users\hp\Desktop\GitHub\DMovies\D_Movie\D_Movie\obj\x86\Debug\D_Movie.Properties.Resources.resources
+C:\Users\hp\Desktop\GitHub\DMovies\D_Movie\D_Movie\obj\x86\Debug\D_Movie.csproj.GenerateResource.Cache
